@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
   gem.version       = Omniauth::Storenvy::VERSION
 
   gem.add_dependency 'omniauth', '~> 1.0'
-  gem.add_dependency 'omniauth-oauth2', '~> 1.1.0'
+  gem.add_dependency 'omniauth-oauth2', '~> 1.2'
   gem.add_dependency 'multi_json'
 
 end
